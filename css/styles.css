@@ -1,0 +1,28 @@
+/* 
+
+CSS - Cascading Style Sheets
+
+3 Types of Style Sheets in Browser
+    - user agent stylesheets
+        - Comes from the browser
+    - Author
+        - Created by developers
+    - User
+        - Created by end user
+
+Cascade Rules:
+    -Styles are read and appled from top to bottom
+    -Speceficity: Some selectors hac a higher importance. Definitions with higher importance are applied.
+
+Order of Importance in Speceficity:
+    -Tag Selector
+        img
+    -Class Selector
+        .image
+    -ID Selector
+        #image
+    -Important
+        background-color: red !important;
+    
+
+*/
